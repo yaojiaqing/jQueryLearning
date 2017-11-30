@@ -3,6 +3,7 @@
         readyList,
         rootAct,
         core_strundefined = typeof undefined,
+       
         document = window.document,
         docElem = window.documentElement,
 
